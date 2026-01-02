@@ -1,0 +1,6 @@
+# Autor: jordan dev
+.env
+__pycache__/
+*.pyc
+venv/
+.vscode/
